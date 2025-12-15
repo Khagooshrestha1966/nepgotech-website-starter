@@ -24,7 +24,7 @@ export default function Home() {
       <h2 style={{ marginTop: "30px" }}>Contact Us</h2>
       <p>
         📧 info@nepgotech.com.np<br />
-        📞 +977-XXXXXXXX
+        📞 +977-01-4529965 / +977-01-5367267
       </p>
 
       <p style={{ marginTop: "40px", color: "gray" }}>
